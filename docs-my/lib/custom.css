@@ -1,0 +1,17 @@
+.markdown-body {
+  max-width: 996px;
+}
+
+.ivu-select-dropdown ul {
+  padding-left: 0px;
+  margin-bottom: 0px;
+}
+
+.markdown-body input.ivu-input {
+  font-size: 12px;
+}
+
+@media print {
+  @page { margin: 0; }
+  body { margin: 1.6cm; }
+}
